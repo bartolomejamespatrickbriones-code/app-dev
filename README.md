@@ -4,7 +4,7 @@
 
 **Toy Story 5** is the *fifth main film* in Pixar's Toy Story series, released in theaters in the United States on June 19, 2026.[^1] It is the 5^th^ movie in a franchise that began in 1995.
 
-![Toy Story 5 poster](poster.jpg)
+![Toy Story 5 poster]
 
 ---
 
@@ -59,15 +59,7 @@ Lilypad
 
 Use the `toy-story-5` tag to find this film in the repository. 
 
-
-{
-  "title": "Toy Story 5",
-  "studio": "Pixar Animation Studios",
-  "director": "Andrew Stanton",
-  "releaseDate": "2026-06-19",
-  "runtimeMinutes": 102,
-  "genres": ["Animation", "Family", "Comedy", "Adventure"]
-}
+---------------------------------------------------------------------------------------
 
 ## Watch List
 
